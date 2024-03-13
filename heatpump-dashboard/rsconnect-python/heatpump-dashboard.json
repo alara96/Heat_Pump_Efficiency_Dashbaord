@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/adrian/Documents/UIUC_Spring_2024/CS_498_End-2-End_Data_Science/sp24_cs498e2e-mp01_adrian11/heatpump-dashboard",
+        "app_url": "https://adrianlara.shinyapps.io/heat_pump_efficiency/",
+        "app_id": 11482542,
+        "app_guid": null,
+        "title": "heat_pump_efficiency",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
